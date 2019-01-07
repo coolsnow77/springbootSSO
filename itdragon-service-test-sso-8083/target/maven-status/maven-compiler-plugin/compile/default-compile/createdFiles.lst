@@ -1,0 +1,9 @@
+com\itdragon\service\impl\UserServiceImpl.class
+com\itdragon\utils\HttpClientUtil.class
+com\itdragon\pojo\ItdragonResult.class
+com\itdragon\interceptors\MyAdapterConfig.class
+com\itdragon\pojo\User.class
+com\itdragon\controller\PageController.class
+com\itdragon\utils\CookieUtils.class
+com\itdragon\interceptors\UserLoginHandlerInterceptor.class
+com\itdragon\service\UserService.class
