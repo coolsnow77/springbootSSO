@@ -13,3 +13,5 @@
 > 127.0.0.1  sso.client1.com
 > # 8083
 > 127.0.0.1 sso.client2.com
+## 8. 环境配置
+> java8 环境.
